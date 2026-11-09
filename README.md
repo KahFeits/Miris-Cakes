@@ -4,6 +4,8 @@ Aplicativo de encomendas para confeitaria, em português, com vitrine e pedidos 
 
 ## Recursos
 
+A experiência prioriza o celular: navegação inferior fixa, resumo da sacola, catálogo em lista, filtros horizontais e formulários em tela cheia, com suporte à área segura do dispositivo.
+
 - Ativação e desativação de catálogos e produtos.
 - Personalização de nome, cor, textos, produtos e preços.
 - Montagem de bolo temático com tema, cor, tamanho, massa, recheio e mensagem.
