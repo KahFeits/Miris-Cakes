@@ -41,5 +41,18 @@ As imagens demonstrativas são do Unsplash. As imagens e fontes desta versão s�
 - Miri’s Cakes: rosa antigo `#c77587`, rosa-claro `#ffd3ce` e tons derivados para contraste.
 - Bebas Neue nos títulos e Poppins nos textos. Fontes incluídas com suas licenças OFL em `dist/assets/fonts`.
 - Os destaques manuscritos priorizam Daydream quando instalada no dispositivo; Sacramento é a alternativa provisória incluída. O arquivo web da Daydream ainda precisa ser fornecido para uso consistente em todos os dispositivos.
-- O cabeçalho usa o nome em texto até a disponibilização do arquivo original da logo.
+- Logo original extraída do catálogo de Dia das Mães e aplicada como padrão, preservando logos personalizadas já salvas.
 
+
+## Catálogos importados
+
+Os PDFs originais ficam em `dist/assets/catalogs` e o cadastro inicial em `dist/assets/catalog-data.js`.
+
+- Docinhos: 1 produto (100 unidades, até dois sabores dentre 13 opções). Preço de R$ 185,00 conforme o conteúdo do PDF; o nome do arquivo recebido indicava R$ 135,00.
+- Sobremesas: 13 produtos, incluindo quatro sobremesas em três tamanhos, brownie com escolha de recheio, tortas, cheesecakes e tortas salgadas.
+- Dia das Mães: 2 produtos, com opções de sabor, pães e bebida conforme cada cesta.
+- Natal 2026 e Páscoa 2025: importação pendente. Os arquivos recebidos ultrapassaram o limite de transferência de 32 MiB; seus produtos e preços não foram lidos nem cadastrados. São exibidos apenas como pendências na gestão.
+
+Os catálogos disponíveis começam ativos e podem ser ocultados na gestão. A atualização do cadastro remove os quatro produtos demonstrativos originais, adiciona os novos itens uma única vez e preserva pedidos e produtos personalizados já salvos. O WhatsApp do catálogo é usado quando não há um número personalizado configurado. Os preços de tamanhos e as opções de produtos podem ser editados na gestão.
+
+As fotos de produtos foram extraídas dos PDFs fornecidos. Algumas imagens dos documentos eram capturas de tela de terceiros; nesses casos foi usada a logo como apresentação do produto, mantendo o PDF original disponível.
