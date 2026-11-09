@@ -22,7 +22,9 @@ Acesse http://localhost:3000.
 
 ## Publicar na Vercel
 
-Importe este repositório em https://vercel.com/new. Use o diretório raiz do repositório. O arquivo `vercel.json` configura o projeto estático e a pasta de saída `dist`, sem comando de build. A integração GitHub da Vercel pode publicar automaticamente novos commits da branch principal.
+O projeto `miris-cakes` está conectado a este repositório na Vercel. Novos commits enviados à branch `main` disparam uma publicação automática em https://miris-cakes.vercel.app.
+
+O arquivo `vercel.json` configura o projeto estático e a pasta de saída `dist`, sem comando de build. Pull requests podem gerar prévias de revisão conforme as configurações da Vercel.
 
 ## Limitações desta versão
 
