@@ -32,4 +32,12 @@ Este projeto é um protótipo com persistência em `localStorage`: os dados fica
 
 Para operação real, implementar autenticação administrativa e armazenamento no servidor antes de receber pedidos de clientes. Hospedar na Vercel não altera essas limitações.
 
-As imagens usam Unsplash e as fontes usam Google Fonts, dependendo de conexão com esses serviços.
+As imagens demonstrativas são do Unsplash. As imagens e fontes desta versão são servidas pelo próprio projeto; novas fotos configuradas por ID ainda podem usar o Unsplash.
+
+## Identidade visual
+
+- Miri’s Cakes: rosa antigo `#c77587`, rosa-claro `#ffd3ce` e tons derivados para contraste.
+- Bebas Neue nos títulos e Poppins nos textos. Fontes incluídas com suas licenças OFL em `dist/assets/fonts`.
+- Os destaques manuscritos priorizam Daydream quando instalada no dispositivo; Sacramento é a alternativa provisória incluída. O arquivo web da Daydream ainda precisa ser fornecido para uso consistente em todos os dispositivos.
+- O cabeçalho usa o nome em texto até a disponibilização do arquivo original da logo.
+
